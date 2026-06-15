@@ -1,0 +1,6 @@
+{
+  "name": "Nivasa Real Estate",
+  "description": "A modern real estate landing page featuring property listings and a property search interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
