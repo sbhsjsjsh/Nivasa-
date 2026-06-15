@@ -57,6 +57,9 @@ export const metadata: Metadata = {
     shortcut: 'https://i.ibb.co/MkqMk3Kd/688525843-1781520463088851.jpg',
     apple: 'https://i.ibb.co/MkqMk3Kd/688525843-1781520463088851.jpg',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
